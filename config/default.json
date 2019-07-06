@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://nkwapo:nkwapo@devpool-tpias.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://nkwapo:nkwapo@devpool-tpias.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
