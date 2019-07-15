@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://nkwapo:nkwapo@devpool-tpias.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "ec0905441ebe94684f65",
+  "githubSecret": "1048d3506af0200de93e67c507cf0af4f0d4c394"
+}
